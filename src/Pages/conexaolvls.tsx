@@ -293,4 +293,10 @@ export const levels = [
     { words: ["Uncial", "Carolina", "Gotica", "Cursiva"], category: "Tipos de escrita antiga", difficulty: "dificil", color: "#b0c4ef" },
     { words: ["Lais", "Escota", "Catau", "Fateixa"], category: "Nos nauticos", difficulty: "muito dificil", color: "#ba81c5" },
   ],
+  [
+    { words: ["Rainha", "Obreira", "Zangao", "Favo"], category: "Numa colmeia", difficulty: "facil", color: "#f9df6d" },
+    { words: ["Champinhao", "Cantarelo", "Miscaro", "Tubera"], category: "Cogumelos comestiveis", difficulty: "medio", color: "#a0c35a" },
+    { words: ["Ogival", "Pleno", "Abatido", "Ferradura"], category: "Tipos de arco arquitetonico", difficulty: "dificil", color: "#b0c4ef" },
+    { words: ["Garlopa", "Goiva", "Plaina", "Formao"], category: "Ferramentas de carpinteiro", difficulty: "muito dificil", color: "#ba81c5" },
+  ],
 ];
