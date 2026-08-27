@@ -299,4 +299,10 @@ export const levels = [
     { words: ["Ogival", "Pleno", "Abatido", "Ferradura"], category: "Tipos de arco arquitetonico", difficulty: "dificil", color: "#b0c4ef" },
     { words: ["Garlopa", "Goiva", "Plaina", "Formao"], category: "Ferramentas de carpinteiro", difficulty: "muito dificil", color: "#ba81c5" },
   ],
+  [
+    { words: ["Barbo", "Boga", "Escalo", "Enguia"], category: "Peixes de rio em Portugal", difficulty: "facil", color: "#f9df6d" },
+    { words: ["Tambor", "Escape", "Ancora", "Balanco"], category: "Mecanismo de um relogio", difficulty: "medio", color: "#a0c35a" },
+    { words: ["Dorsal", "Fossa", "Planicie", "Talude"], category: "Relevo submarino", difficulty: "dificil", color: "#b0c4ef" },
+    { words: ["Silhar", "Aduela", "Imposta", "Verga"], category: "Elementos de cantaria", difficulty: "muito dificil", color: "#ba81c5" },
+  ],
 ];

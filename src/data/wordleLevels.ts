@@ -70,6 +70,7 @@ export const WORDLE_WORDS = [
   "SIRGO",
   "NIVEO",
   "FELGA",
+  "ALHUR",
 ] as const;
 
 export function getWordleWord(levelNumber: number) {
