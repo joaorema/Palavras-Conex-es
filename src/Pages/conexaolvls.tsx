@@ -305,4 +305,10 @@ export const levels = [
     { words: ["Dorsal", "Fossa", "Planicie", "Talude"], category: "Relevo submarino", difficulty: "dificil", color: "#b0c4ef" },
     { words: ["Silhar", "Aduela", "Imposta", "Verga"], category: "Elementos de cantaria", difficulty: "muito dificil", color: "#ba81c5" },
   ],
+  [
+    { words: ["Pessego", "Ameixa", "Cereja", "Damasco"], category: "Frutos de caroco", difficulty: "facil", color: "#f9df6d" },
+    { words: ["Alaude", "Bandolim", "Cavaquinho", "Citara"], category: "Instrumentos de corda dedilhada", difficulty: "medio", color: "#a0c35a" },
+    { words: ["Pilrito", "Borrelho", "Macarico", "Tarambola"], category: "Aves limicolas", difficulty: "dificil", color: "#b0c4ef" },
+    { words: ["Folio", "Rubrica", "Colofao", "Iluminura"], category: "Elementos de um manuscrito medieval", difficulty: "muito dificil", color: "#ba81c5" },
+  ],
 ];
