@@ -311,4 +311,10 @@ export const levels = [
     { words: ["Pilrito", "Borrelho", "Macarico", "Tarambola"], category: "Aves limicolas", difficulty: "dificil", color: "#b0c4ef" },
     { words: ["Folio", "Rubrica", "Colofao", "Iluminura"], category: "Elementos de um manuscrito medieval", difficulty: "muito dificil", color: "#ba81c5" },
   ],
+  [
+    { words: ["Suspiro", "Gargalhada", "Soluco", "Bocejo"], category: "Sons humanos", difficulty: "facil", color: "#f9df6d" },
+    { words: ["Cilindro", "Lingueta", "Espelho", "Trinco"], category: "Partes de uma fechadura", difficulty: "medio", color: "#a0c35a" },
+    { words: ["Malhao", "Regadinho", "Fandango", "Tirana"], category: "Dancas tradicionais portuguesas", difficulty: "dificil", color: "#b0c4ef" },
+    { words: ["Lico", "Lancadeira", "Urdideira", "Pedal"], category: "No tear manual", difficulty: "muito dificil", color: "#ba81c5" },
+  ],
 ];
